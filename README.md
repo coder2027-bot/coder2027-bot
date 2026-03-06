@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi, I'm Yash Krishna Dixit 👋
 
-Computer Science student at VIT Chennai (CGPA 8.99)
+Computer Science student at VIT Chennai
 
 Interested in:
 - Backend Development
